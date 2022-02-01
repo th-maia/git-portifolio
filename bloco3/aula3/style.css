@@ -1,0 +1,31 @@
+body {
+    background: #3A445D;
+    font-family: sans-serif,Arial, Helvetica, sans-serif;
+    color: silver   
+}
+hr {
+    background-color: black;
+
+}
+h1, h3 {
+    background-color: black;
+    padding-left: 10px;
+    width: 2000px;
+    border-radius: 5px;
+    
+}
+#nome{
+    font-size: 40px;  
+}
+
+#fonte20{
+        font-size: 20px;
+        color:white;
+        font-family: 'Courier New', Courier, monospace;
+}
+#branco{
+    color:white;
+}
+.gosta{
+    text-decoration: underline;
+}
