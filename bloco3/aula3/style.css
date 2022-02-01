@@ -3,6 +3,16 @@ body {
     font-family: sans-serif,Arial, Helvetica, sans-serif;
     color: silver   
 }
+img {
+    float: left;
+    padding: 10px;
+    background-color: black;
+}
+section h4{
+    margin-top: 275px;
+    margin-bottom: 85px;
+    margin-left: 310px;
+}
 hr {
     background-color: black;
 
@@ -10,12 +20,16 @@ hr {
 h1, h3 {
     background-color: black;
     padding-left: 10px;
-    width: 2000px;
+    width: 100%;
     border-radius: 5px;
     
 }
+ol li:nth-child(odd) {
+    color: white;
+}
 #nome{
-    font-size: 40px;  
+    font-size: 40px; 
+    text-align: center; 
 }
 
 #fonte20{
