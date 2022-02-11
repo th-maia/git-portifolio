@@ -39,6 +39,8 @@ if(numero >1){
     }
 }
 
+
+
 /*3- Agora vamos inverter o lado do triângulo. Por exemplo:
 n = 5
     *
@@ -62,7 +64,9 @@ if(numero >1){
     console.log(tabela);
     }
 }
-----------------------------------
+
+
+
 /*4- faça uma pirâmide com n asteriscos de base:
 n = 5
 
@@ -99,7 +103,7 @@ n = 7
  *   *
 *******     */
 
-let numero = 30;
+let numero = 5;
 let meio= Math.ceil(numero/2);
 let tabela= '';
 let ajustepar= 0;
